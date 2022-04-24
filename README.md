@@ -1,2 +1,7 @@
 # AppGrupo9
-Integrantes: Francisca Rojas, Nicholas Kluttig e Ignacia Hernandez
+
+
+-Integrantes:
+Francisca Rojas
+Nicholas Kluttig
+Ignacia Hernandez
